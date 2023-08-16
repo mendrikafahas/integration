@@ -1,0 +1,43 @@
+body{
+    font-family: Arial, sans-serif;
+}
+.login-section {
+background-color: #f8f9fa;
+padding: 20px;
+}
+.logo img{
+width: 50px;
+height: 50px;
+margin-right: 10px;
+}
+.link{
+    color: #007bff;
+    text-decoration: none;
+}
+
+.welcome-text{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.login-form{
+    margin-top: 20px;
+}
+.content-section{
+    background-color: rgb(30, 30, 238);
+    padding: 20px;
+}
+.content-welcome{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.carousel{
+/*carousel style*/
+}
+.carousel-control-prev, .carousel-control-next {/*carousel style*/}
+
+.copyrigh{
+    text-align: center;
+    margin-top: 20px;
+}
